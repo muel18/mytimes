@@ -1,0 +1,36 @@
+
+
+header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.mytlogo {
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  flex-grow: 1;
+}
+
+.mytlogo span {
+  color: MediumAquamarine;
+}
+
+.mytlogo img {
+  width: 70px;
+  height: 60px;
+  margin-right: 20px;
+}
+
+header nav {
+  padding-right: 40px;
+}
+
+nav span {
+  display: inline-block;
+  padding: 20px 10px;
+}
